@@ -1,0 +1,2 @@
+This code optimizes the number of rolling mill passes required to achieve desired metal thickness, with respect to operational constraints such as speed, load, and power of rolling mill. optimization.m is the main file that minimizes the number of passes required to achieve
+the desired thickness prints the schedule details for each pass. fun_compute_load.m and computations.m consists of pre-defined operational limits and equations to compute the required operational data for each pass.
